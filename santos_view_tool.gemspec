@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "https://github.com/matheussf/portfolio"
+  spec.homepage      = "https://github.com/matheussf/santos_view_tool"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
